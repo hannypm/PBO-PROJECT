@@ -59,11 +59,11 @@ public class VendingMachine implements Mesin {
         Scanner in = new Scanner(System.in);
 
         output.println("Uang anda   : " + uang);
-        output.println("====================================================================");
+        output.println("======================================================================");
         output.println("JENIS BARANG    HARGA   KEMBALIAN");
-        output.println("====================================================================");
+        output.println("======================================================================");
         output.println("\t" + Barang.namaBarang + "\t\t" + Barang.harga + "\t\t" + kembali );
-        output.println("====================================================================");
+        output.println("======================================================================");
                         output.close();
 
                 System.out.println("Struk telah tercetak di 'Struk.txt'");
