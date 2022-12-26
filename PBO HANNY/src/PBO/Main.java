@@ -12,8 +12,8 @@ public class Main {
 
         while(true) {
             System.out.println("\n==================================================================");
-            System.out.println("                        TIME TRAVEL RENTAL                      ");
-            System.out.println("                      Solusi Perjalanan Anda                    ");
+            System.out.println("                        SELAMAT DATANG DI                   ");
+            System.out.println("                         VENDING MACHINE                    ");
             System.out.println("==================================================================");
             user.masukUang();
             user.pililhBarang();
